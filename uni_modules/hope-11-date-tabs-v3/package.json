@@ -1,7 +1,7 @@
 {
 	"id": "hope-11-date-tabs-v3",
 	"displayName": "date-tabs-v3 日期选项卡 Vue3版本",
-	"version": "3.0.1",
+	"version": "3.0.2",
 	"description": "Date Tabs 日期选项卡，Vue3版本，选项卡形式的日期选择组件，可左右滚动或拉出日期组件选择，用户预约等场景",
 	"keywords": [
         "date",
@@ -32,7 +32,11 @@
 			"data": "插件不采集任何数据",
 			"permissions": "无"
 		},
-		"npmurl": ""
+        "npmurl": "",
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
 	},
 	"uni_modules": {
 		"dependencies": [],

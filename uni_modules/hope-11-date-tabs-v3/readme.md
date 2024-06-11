@@ -7,7 +7,7 @@ import DateTabs from '@/uni_modules/hope-11-date-tabs-v3/components/hope-11-date
 
 ### 使用
 ```vue
-<DateTabs :value.sync="value1" @change='onDateTabsChange'></DateTabs>
+<DateTabs v-model="value1" @change='onDateTabsChange'></DateTabs>
 ```
 
 ### 事件
