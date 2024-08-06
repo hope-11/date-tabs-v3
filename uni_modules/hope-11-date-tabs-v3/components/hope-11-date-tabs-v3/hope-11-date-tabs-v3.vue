@@ -159,7 +159,7 @@
 	.date-tabs-container {
 		width: 100vw;
 		height: 120rpx;
-		box-shadow: 0 10rpx 10rpx $uni-bg-color-grey;
+		box-shadow: 0 10rpx 10rpx #f8f8f8;
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
@@ -239,7 +239,7 @@
 		.calendar-button {
 			width: 120rpx;
 			height: 100%;
-			box-shadow: -10rpx 0 10rpx $uni-bg-color-grey;
+			box-shadow: -10rpx 0 10rpx #f8f8f8;
 			display: flex;
 			justify-content: center;
 			align-items: center;
